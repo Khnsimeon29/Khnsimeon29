@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Khnsimeon29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm @Khnsimeon29
 
-<!---
-Khnsimeon29/Khnsimeon29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Développeur passionné basé à Abidjan 🇨🇮
+- 🌱 J'apprends le développement Web et Python actuellement
+- 💞️ Je cherche à collaborer sur des projets open-source et des sites vitrines
+- 📫 Comment me joindre : Sur ComeUp & GitHub - Khnsimeon29
+
+La patience pour le trésor 💎
